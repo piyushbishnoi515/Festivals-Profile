@@ -596,6 +596,7 @@
     height: 115vh;
     top: -52%;
     left: -100%;
+    transition: all 0.3s;
 }
 
 .menulist {
